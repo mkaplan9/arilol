@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Ari Kaplan
+tagline:          'Poet / educator / recently returned expat'
+description:      'Poet / educator / recently returned expat'
+baseurl:          /
+
+author:
+  name:           'Ari Kaplan'
+  url:            https://twitter.com/ariellemkaplan
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+plugins:          [jekyll-paginate]
