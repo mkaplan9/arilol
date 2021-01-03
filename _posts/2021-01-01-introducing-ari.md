@@ -3,7 +3,7 @@ layout: post
 title: Introducing Ari
 ---
 
-Hi there
+Bonjour
 
 ### Likes
 
@@ -11,3 +11,6 @@ Hi there
 * Eating lamb
 * Mohonk
 * Reading
+* Cycling
+* Skiing
+* Apres-ski
