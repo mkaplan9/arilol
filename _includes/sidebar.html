@@ -1,7 +1,7 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="cover-author-image">
-      <img src="{{site.baseurl}}public/img/headshot.png" alt="{{site.author.name}}">
+      <img src="{{site.baseurl}}public/img/headshot.jpg" alt="{{site.author.name}}">
     </div>
     <div class="sidebar-about">
       <h1>
@@ -28,8 +28,6 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
