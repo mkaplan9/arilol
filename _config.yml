@@ -8,7 +8,7 @@ permalink:        pretty
 title:            Ari Kaplan
 tagline:          'Poet / educator / recently returned expat'
 description:      'Poet / educator / recently returned expat'
-baseurl:          /
+baseurl:          '/'
 
 author:
   name:           'Ari Kaplan'
